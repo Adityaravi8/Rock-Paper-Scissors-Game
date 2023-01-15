@@ -13,7 +13,7 @@ com_lst = ["Rock","Paper","Scissors"]
 print("Welcome to Rock, Paper, Scissors.\nHere are the instructions:")
 print("-First pick how many rounds you would like to do.You can quit at anytime by typing QUIT.") 
 print("-Then you are given 3 options which are Rock,Paper,Scissors. You can type in the full word with a capital letter or full word without a capital letter but make sure to type the full word.") 
-print("-The computer will then select one of the five options.\nObjective:") 
+print("-The computer will then select one of the three options.\nObjective:") 
 print("Your goal is to beat the computer by choosing an option that beats the computer.") 
 print("Rock beats Scissors ,Scissors beat Paper, Paper beats Rock") 
 
